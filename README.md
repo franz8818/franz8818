@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🙋🏻‍♂️, Soy Franz Seidel</h1>
 <h3 align="center">Full Stack Designer</h3>
 
-- 👀 Gracias por visitar mi perfil. Abierto a oportunidades para proyectos o trabajos como desarrolador web.
+- 👀 Gracias por visitar mi perfil. Abierto a oportunidades para proyectos o trabajos como desarrollador web.
 
 - 👨🏻‍💻 Actualmente estoy trabajando en el desarrollo de mi propio portfolio ->  **https://portfolio-website-franz.vercel.app/**
 
