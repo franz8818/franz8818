@@ -1,29 +1,19 @@
-<h1 align="center">Hi 👋, I'm Franz Seidel</h1>
-<h3 align="center">A passionate Full Stack developer from Venezuela</h3>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Franz Seidel</h1>
+<h3 align="center">Full Stack Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wiljmorales&label=Profile%20views&color=0e75b6&style=flat" alt="wiljmorales" /> </p>
+- 👀 Gracias por visitar mi perfil. Me encuentro en la busqueda de mi primer empleo como desarrollador web.
 
-<p align="left"> <a href="https://twitter.com/wiljmorales" target="blank"><img src="https://img.shields.io/twitter/follow/wiljmorales?logo=twitter&style=for-the-badge" alt="wiljmorales" /></a> </p>
+- 👨🏻‍💻 Actualmente estoy trabajando en el desarrolo de mi propio portfolio ->  **https://portfolio-website-franz.vercel.app/**
 
-- 🔭 I’m currently working on [La Canchita](https://github.com/wiljmorales/la-canchita)
+- 🌱 Empece en el mundo del desarrolo en el Bootcamp de  **4Geeks Academy LATAM**
 
-- 🌱 I’m currently learning **Full Stack development with React, Next, Node, and Express**
+- 📫 Se reciben ofertas laborales o practicas **franz8818@gmail.com**
 
-- 💬 Ask me about **CSS, JavaScript, React and Python**
-
-- 📫 How to reach me **wiljmoralesa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/wiljmoralesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiljmoralesa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wiljmorales/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiljmorales/" height="30" width="40" /></a>
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="drawing" width="50"/>](https://www.linkedin.com/in/carlos-carranza-249604166/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiljmorales&theme=react&show_icons=true&locale=en&layout=compact" alt="wiljmorales" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiljmorales&show_icons=true&locale=en&theme=react" alt="wiljmorales" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiljmorales&theme=react" alt="wiljmorales" /></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="45"/><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="drawing" width="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="35"/><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="JS" width="80"/><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="drawing" width="90"/><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="drawing" width="50"/><img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="drawing" width="30"/>
