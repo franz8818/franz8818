@@ -4,6 +4,9 @@
 
 - 👨🏻‍💻 Actualmente estoy trabajando en el desarrollo de mi porfolio ->  **[https://portfolio-website-franz.vercel.app/](https://portfolio-franz.vercel.app/)**
 
+- 🌱 Mi formación empezo con el bootcamp 4Geeks Academy **https://4geeksacademy.com/es/inicio**
+    Continuo mi fomarción día a día 
+
 - 💼 Conecta conmigo: **www.linkedin.com/in/franz8818** 
 
 - 📫 Se reciben ofertas laborales **franz8818@gmail.com**
