@@ -6,7 +6,8 @@
 
 - 🌱 Mi formación empezo con el bootcamp 4Geeks Academy **https://4geeksacademy.com/es/inicio**
 
-- 💬 Pregúntame acerca de **HTML, CSS, JavaScript, React & Python** 
+> [!NOTE]
+> - 💬 Pregúntame acerca de **HTML, CSS, JavaScript & React** 
 
 - 💼 Conecta conmigo: **www.linkedin.com/in/franz8818** 
 
